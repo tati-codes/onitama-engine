@@ -1,0 +1,13 @@
+{
+  "name": "onitama-engine",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc --watch ./src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
